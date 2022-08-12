@@ -1,0 +1,41 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    margin: 0px;
+    font-size: 30px;
+    width: 100%;
+}
+
+.note {
+    font-size: 22px;
+    color: yellow;
+    text-decoration: underline;
+}
+
+#div_speed {
+    float: left;
+}
+
+#div_volume {
+    float: right;
+}
+
+.disk_image {
+    width: 200px;
+    border-radius: 100px;
+}
+
+.play_button {
+    box-shadow: 5px 5px 5px blue;
+    width: 100px;
+    font-size: 18px;
+}
+
+canvas {
+    background: white;
+    border: 10px solid yellow;
+    border-radius: 4px;
+    margin-top: 70px;
+}
